@@ -11,8 +11,13 @@ Elbow method is used to find optimal number of clusters.
 The project will involve the following steps:
 
 Data preprocessing: cleaning and preparing the dataset for clustering
+
 Exploratory data analysis: visualizing and understanding the data
+
 Feature selection: selecting relevant features for clustering
+
 Model training: applying the K-means algorithm to the dataset
+
 Model evaluation: evaluating the quality of the clusters and selecting the optimal number of clusters
+
 Interpretation and visualization: interpreting the results and visualizing the customer segments
